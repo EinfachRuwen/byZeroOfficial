@@ -4,10 +4,10 @@
 
 ### 😅 About Me
 
-➡ I am byZero, a Student and Developer. 
-➡ 📌 Located in ***Germany*** 
-➡ I am currently working on an Substitution schedule app for my old School. 
-➡ A few years ago, I had my own Minecraft-Server so I ❤ playing Minecraft. 
-➡ 🌱 I wanna start learning *PHP, HTML and CSS* but I won't start 
-➡ 💬 Ask me about anything you want to. 
-➡ ⚡ I know the basics in a few languages, but i cant code in a specified language 😫
+- I am byZero, a Student and Developer. 
+- 📌 I am located in ***Germany*** 
+- I am currently working on an Substitution schedule app for my old School. 
+- A few years ago, I had my own Minecraft-Server so I ❤ playing Minecraft. 
+- 🌱 I wanna start learning *PHP, HTML and CSS* but I won't start 
+- 💬 Ask me about anything you want to. 
+- ⚡ I know the basics in a few languages, but i cant code in a specified language 😫
