@@ -2,13 +2,6 @@
 [![https://badgen.net/twitter/follow/byzeroofficial](https://badgen.net/twitter/follow/byzeroofficial)](https://twitter.com/byzeroofficial) [![https://badgen.net/badge/zer0network.xyz/Visit%20my%20Website!/cyan?icon=terminal](https://badgen.net/badge/zer0network.xyz/Visit%20my%20Website!/cyan?icon=terminal)](https://zer0network.xyz)
 
 ### 😅 About Me
-
-➡ I am byZero, a Student and Developer.
-➡ 📌 Located in ***Germany*** 
-### 👋 Hi there, I am byZero. Welcome to my GitHub profile!
-[![https://badgen.net/twitter/follow/byzeroofficial](https://badgen.net/twitter/follow/byzeroofficial)](https://twitter.com/byzeroofficial) [![https://badgen.net/badge/zer0network.xyz/Visit%20my%20Website!/cyan?icon=terminal](https://badgen.net/badge/zer0network.xyz/Visit%20my%20Website!/cyan?icon=terminal)](https://zer0network.xyz)
-
-### 😅 About Me
 ➡ I am byZero, a Student and Developer.
 ➡ 📌 Located in ***Germany*** 
 ➡ I am currently working on an Substitution schedule app for my old School.
