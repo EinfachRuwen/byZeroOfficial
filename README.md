@@ -11,3 +11,6 @@
 - 🌱 I wanna start learning *PHP, HTML and CSS* but I won't start 
 - 💬 Ask me about anything you want to. 
 - ⚡ I know the basics in a few languages, but i cant code in a specified language 😫
+
+My **readme.md** is inspired to jacc's readme.md :D
+Feel free to look at his profile: https://github.com/jacc
