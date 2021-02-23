@@ -1,5 +1,6 @@
 
 ### 👋 Hi there, I am byZero. Welcome to my GitHub profile!
+### Learn more about me [here](https://gist.github.com/byZeroOfficial/529c8303d909c0b6908c49d52e04e220)
 [![https://badgen.net/twitter/follow/byzeroofficial](https://badgen.net/twitter/follow/byzeroofficial)](https://twitter.com/byzeroofficial) [![https://badgen.net/badge/zer0network.xyz/Visit%20my%20Website!/cyan?icon=terminal](https://badgen.net/badge/zer0network.xyz/Visit%20my%20Website!/cyan?icon=terminal)](https://zer0network.xyz)
 
 ### 😅 About Me
