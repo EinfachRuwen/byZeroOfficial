@@ -7,19 +7,5 @@ When I was 6 or 7 I often had the interest to program my own messenger app and i
 In the near future I'm thinking about learning PHP, HTML, CSS and Node.js so I can create my own websites and get ahead. 
 ## 🔗 Important links
 - [Social Media](https://byzer0.ml)
-## My Setup
-Setup:
-Mouse* ► https://amzn.to/3oOzTvp
-Keyboard* ► Soon a new xd
-Monitor* ► https://amzn.to/3rZCi9s
-Headset* ► https://amzn.to/39wjmF9
-Microphone* ► https://amzn.to/3n8AHKH
-
-PC:
-Graphics card* ► https://amzn.to/3ocnp10
-Motherboard* ► https://amzn.to/3pLnrO0
-CPU* ► https://amzn.to/3oa4VOF
-RAM* ► https://amzn.to/38bcGOI
-Case* ► https://amzn.to/3rIKJpk
 ## Credits
 Thanks for reading this :)
