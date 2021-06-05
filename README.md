@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm byZero</h1>
 <h3 align="center">A Developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byzeroofficial" alt="byzeroofficial" /></a> </p>
-
 - 🔭 I’m currently working on [ZeroBot](https://zerobot.ml)
 
 - 🌱 I’m currently learning **some programming languages (web development etc.)**
