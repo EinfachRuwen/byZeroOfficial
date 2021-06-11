@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Discord: byZero#4840 - Business: business@byzero.xyz**
+### 📫 How to reach me:
+-  **Discord: byZero#0001**
+-  **Business: business@byzero.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
