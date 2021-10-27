@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me:
 -  **Matrix: [@byzero:envs.net](https://byzer0.ml/matrix)**
--  **Business: mail@byzero.ml**
+-  **Business: mail@byzero.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
