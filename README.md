@@ -1,17 +1,15 @@
 <h1 align="center">Hi there👋, I'm byZero</h1>
 <h3 align="center">A Developer from Germany</h3>
 
-- 🔭 I’m currently working on [ZeroBot](https://zerobot.ml)
+- 🔭 I’m currently working on [WebsiteGenerator](https://generator.byzero.dev)
 
 - 🌱 I’m currently learning **some programming languages (web development etc.)**
 
-- 👨‍💻 All of my projects are available at [https://byzero.xyz](https://byzero.xyz)
+- 👨‍💻 All of my projects are available at [https://byzero.dev](https://byzero.dev)
 
 - 💬 Ask me about **Python**
 
-### 📫 How to reach me:
--  **Matrix: [@byzero:envs.net](https://byzer0.ml/matrix)**
--  **Business: mail@byzero.dev**
+### [📫 How to reach me](https://byzero.dev/chat)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
